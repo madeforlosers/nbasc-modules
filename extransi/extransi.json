@@ -1,0 +1,10 @@
+{
+  "cmdlist":[
+    "clrscrn",
+    "clrline",
+    "clrsfcur",
+    "clrstcur",
+    "clrlfcur",
+    "clrltcur",
+  ]
+}
